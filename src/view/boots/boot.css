@@ -1,0 +1,21 @@
+.form-box{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.box-input{
+    display: block;
+    width: 150px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.box-btn {
+    display: block;
+    margin-left: 20px;
+    padding: 5px;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 18px;
+}
