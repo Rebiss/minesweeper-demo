@@ -8,7 +8,7 @@
 
 <hr/>
 
-## Map
+### Structure.
 
 ```sh
 .
@@ -43,12 +43,15 @@
                 Minfunc.js
 ```
 
-## Available Scripts
+### Available Scripts.
 Use the package manager <i>[yarn](https://yarnpkg.com/)</i>
-### `yarn start`
-### `yarn test`
-### `yarn build`
-### `yarn eject`
-### `yarn build`
+```sh
+> yarn run start
+> yarn run test
+> yarn run build
+> yarn run eject
+> yarn run build
+```
+
 <hr />
 
